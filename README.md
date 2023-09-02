@@ -22,7 +22,7 @@
   </div>
 
 ### About me
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 - 📫 Reach me by [Telegram](https://t.me/alihankd), [email](mailto:kd.kd.kd.767.767.767@gmail.com)
 - 🌍 I speak Russian, English
 
