@@ -16,7 +16,7 @@
   </div>
 
 ### About me
-- 👾 I’m intermediate web developer **HTML, CSS (and partially JS)**
+- 👾 I’m junior web developer **HTML, CSS (and partially JS)**
 - 📫 Reach me by [Telegram](https://t.me/a_polaris), [email](mailto:kd.kd.kd.767.767.767@gmail.com)
 - 🌍 I speak Russian and English (B1)
 
