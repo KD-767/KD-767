@@ -6,7 +6,7 @@
 </div>
 
 <div id="header" align="center">
- <h3>Intermediate web developer from Tashkent</h3>
+ <h3>Junior web developer from Tashkent</h3>
  
 
 <div id="socials" align="center" >
